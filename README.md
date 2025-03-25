@@ -27,7 +27,7 @@ For this research we implement the three diferent methods of managuing the data
 
 # Requirments to run tue code:
  - Python 3.12 installed 
- - For this implementations as mention before are some libraries need it, use the next command in the cmd to install them in case you don have it 
+ - For this implementations as mention before are some libraries need it, use the next command in the cmd to install them in case you don have it:                                                                
                 pip install faiss-cpu numpy pandas sentence-transformers
     
      
